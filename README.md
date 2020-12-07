@@ -19,10 +19,7 @@ Samples of the dataset is displayed in images below
 Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
 
 
-The dataset comprises radiographs from 12,251 patients with a total of 40,895 X-ray images. The distribution of the body parts is displayed below
-
-
-![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Upper_extremity.png)
+The dataset comprises radiographs from 12,251 patients with a total of 40,895 X-ray images.
 
 The approach developed to estimate the probability of an X-ray image identifying abnormalities involved dividing the problem into three parts:
 
