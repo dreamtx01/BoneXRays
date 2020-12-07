@@ -11,11 +11,15 @@ The dataset is organized in multiple folders already divided into training and v
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Dataset.jpg)
 
 Samples of the dataset is displayed in images below
+
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Dataset.png)
 
 Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
 
+
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bonefolderstructure.jpg)
+
+
 
 The dataset comprises radiographs from 12,251 patients with a total of 40,895 X-ray images. The distribution of the body parts is displayed below
 
