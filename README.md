@@ -1,34 +1,35 @@
-## What factors contribute to a home team winning an NCAA basketball game?
+## Identifying Bone X-rays
 
 ## Executive Summary
 
-From 1985-2019, teams in regular season of NCAA Division 1 Men's basketball games won 92,732 of their home games but only won 47,547 of their away games,and 15,805 of matches played in neutral locations. 
+In many areas of the world, radiologists interpret radiographs visually to determine whether there are defects in bone structures. The supervised machine learning models developed in this capstone estimates the probability of an X-ray image showing a musculoskeletal abnormality, or not.
 
-Many articles have explained that the reason for a team's home court success is the presence of fans and the arena, as opposed to the fact that they are simply the better team in a particular matchup. Assuming fans are the reasons for this home court advantage, the odds are already stacked against a visiting team, when playing these basketball matches.
+The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
 
-This capstone project attempts to predict what factors contribute to a team winning an NCAA basketball game. 
+The dataset is organized in multiple folders already divided into training and validation groups. These folders contain image for seven body parts located in the upper extremities: elbow, humerus, wrist, hand, finger, shoulder and forearm.
 
-The dataset used for the regular season matches is for the years 2003 -2019. This dataset consists of 87,366 data points from 350 college basketball games. This dataset includes 34 variables such as number of assists, three-point percentages per game, win and loss records per season , and location of matches played. A summary of the statistics of the top 10 teams for this period is displayed below.
-
-
-
-![](Image/Image%2011-16-20%20at%2010.31%20AM.jpg)
+Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
 
 
-A logistic regression algorithm was then used to build a model, predicting whether a match finishes 0 (home win) or 1 (away win) given input derived from in game statistics.
+
+The approach developed to estimate the probability of an X-ray image identifying abnormalities involved dividing the problem into three parts:
+
+* Image preprocessing, 
+* Feature extraction and 
+* Classification of images using machine learning models.
 
 
-![](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Image/Test_Data.png)
 
+The machine learning algorithm used in this project are : Logistic Regression, KNN, Random Forest Classifier and SVM.
+The performance evaluation of the abnormality detection for the dataset was performed by using three statistical parameters. These parameters are: recall, precision and F1-score.
 
-The results for the capstone show that :
+Amongst the four models assesed for the prediction; the Random forest classifier gave the best F1-Score of 0.67 for the abnormal class, while the best upper extremity body part predicted was the finger body part.
+ 
 
-* Home court does give an advantage in basketball games played in the NCAA.
-* The logistic regression algorithm predicted up to sixty-nine percent accuracy for home games winning a basketball game.
 
 Links to the report, code, presentation and machine learning model can be seen in the link below.
 
-[BoneX-Rays PDF Reports](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
+[BoneX-Rays PDF Reports](https://github.com/dreamtx01/BoneXRays/tree/master/Documents)
 
 [Code](https://github.com/dreamtx01/BoneXRays/tree/master/Code)
 
