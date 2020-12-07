@@ -28,12 +28,12 @@ The results for the capstone show that :
 
 Links to the report, code, presentation and machine learning model can be seen in the link below.
 
-[NCAA Men's Basketball PDF Reports](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
+[BoneX-Rays PDF Reports](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
 [Code](https://github.com/dreamtx01/BoneXRays/tree/master/Code)
 
 [Slide Presentation](https://github.com/dreamtx01/BoneXRays/blob/master/Documents/Capstone2_Identifying%20XRays_SlideDeck%20(2).pdf)
 
-[Machine Learning Model](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/Machine%20Learning%20.pdf)
+[Machine Learning Model_Code](https://github.com/dreamtx01/BoneXRays/blob/master/Code/Capstone2_Machine_Learning_ver4.ipynb)
 
 [Final Report](https://github.com/dreamtx01/BoneXRays/blob/master/Documents/Capstone2%20_Final%20Report.pdf)
