@@ -29,6 +29,8 @@ The approach developed to estimate the probability of an X-ray image identifying
 The machine learning algorithm used in this project are : Logistic Regression, KNN, Random Forest Classifier and SVM.
 The performance evaluation of the abnormality detection for the dataset was performed by using three statistical parameters. These parameters are: recall, precision and F1-score.
 
+![]https://github.com/dreamtx01/BoneXRays/blob/master/Image/MachineLearningBones.png
+
 Amongst the four models assesed for the prediction; the Random forest classifier gave the best F1-Score of 0.67 for the abnormal class, while the best upper extremity body part predicted was the finger body part.
  
 
