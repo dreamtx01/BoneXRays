@@ -1,4 +1,5 @@
 ## Identifying Bone X-rays
+![]https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bigpicture.png
 
 ## Executive Summary
 
