@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-In many areas of the world, radiologists interpret radiographs visually to determine whether there are defects in bone structures. The supervised machine learning models developed in this capstone estimates the probability of an X-ray image of a upper exteremity shows a musculoskeletal abnormality, or not. THe picture of the upper extremity is shown below.The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
+In many areas of the world, radiologists interpret radiographs visually to determine whether there are defects in bone structures. The supervised machine learning models developed in this capstone estimates the probability of an X-ray image of a upper exteremity shows a musculoskeletal abnormality, or not. The picture of the upper extremity is shown below. The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
 
 
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/BigPicture2.png)
