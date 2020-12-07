@@ -32,7 +32,7 @@ Links to the report, code, presentation and machine learning model can be seen i
 
 [Code](https://github.com/dreamtx01/BoneXRays/tree/master/Code)
 
-[Slide Presentation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA%20Capstone%201%20Slide%20Deck.pdf)
+[Slide Presentation](https://github.com/dreamtx01/BoneXRays/blob/master/Documents/Capstone2_Identifying%20XRays_SlideDeck%20(2).pdf)
 
 [Machine Learning Model](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/Machine%20Learning%20.pdf)
 
