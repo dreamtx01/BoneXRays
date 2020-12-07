@@ -1,9 +1,9 @@
 ## Identifying Bone X-rays
-![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bigpicture.png)
 
 ## Executive Summary
 
 In many areas of the world, radiologists interpret radiographs visually to determine whether there are defects in bone structures. The supervised machine learning models developed in this capstone estimates the probability of an X-ray image showing a musculoskeletal abnormality, or not.
+![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bigpicture.png)
 
 The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
 
@@ -15,10 +15,6 @@ Samples of the dataset is displayed in images below
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Dataset.png)
 
 Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
-
-
-![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bonefolderstructure.jpg)
-
 
 
 The dataset comprises radiographs from 12,251 patients with a total of 40,895 X-ray images. The distribution of the body parts is displayed below
