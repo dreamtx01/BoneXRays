@@ -20,7 +20,7 @@ Each upper extremity folder is further subdivided into patient information, whic
 
 The dataset comprises radiographs from 12,251 patients with a total of 40,895 X-ray images.
 
-The approach developed to estimate the probability of an X-ray image identifying abnormalities involved dividing the problem into three parts:
+The approach developed to identify abnormalities in X-ray images involved dividing the problem into three parts:
 
 * Image preprocessing, 
 * Feature extraction and 
