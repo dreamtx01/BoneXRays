@@ -30,7 +30,7 @@ Links to the report, code, presentation and machine learning model can be seen i
 
 [NCAA Men's Basketball PDF Reports](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
-[Code](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Code)
+[Code](https://github.com/dreamtx01/BoneXRays/tree/master/Code)
 
 [Slide Presentation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA%20Capstone%201%20Slide%20Deck.pdf)
 
