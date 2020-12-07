@@ -36,4 +36,4 @@ Links to the report, code, presentation and machine learning model can be seen i
 
 [Machine Learning Model](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/Machine%20Learning%20.pdf)
 
-[Final Report](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA_Capstone_1_Final_Report.pdf)
+[Final Report](https://github.com/dreamtx01/BoneXRays/blob/master/Documents/Capstone2%20_Final%20Report.pdf)
