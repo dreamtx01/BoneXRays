@@ -8,7 +8,7 @@ In many areas of the world, radiologists interpret radiographs visually to deter
 The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
 
 The dataset is organized in multiple folders already divided into training and validation groups. These folders contain image for seven body parts located in the upper extremities: elbow, humerus, wrist, hand, finger, shoulder and forearm.
-
+![]https://github.com/dreamtx01/BoneXRays/blob/master/Image/Dataset.png
 Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
 
 ![]https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bonefolderstructure.jpg
