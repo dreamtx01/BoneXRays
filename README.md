@@ -11,7 +11,7 @@ The dataset is organized in multiple folders already divided into training and v
 
 Each upper extremity folder is further subdivided into patient information, which is further subdivided into two study folders. Negative and positive X-ray folders. The negative X-rays feature bones without abnormalities, while the positive X-rays show some abnormality.e.g.fractures.
 
-
+![]https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bonefolderstructure.jpg
 
 The approach developed to estimate the probability of an X-ray image identifying abnormalities involved dividing the problem into three parts:
 
