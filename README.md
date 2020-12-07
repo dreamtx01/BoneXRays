@@ -3,6 +3,8 @@
 ## Executive Summary
 
 In many areas of the world, radiologists interpret radiographs visually to determine whether there are defects in bone structures. The supervised machine learning models developed in this capstone estimates the probability of an X-ray image showing a musculoskeletal abnormality, or not.
+
+
 ![](https://github.com/dreamtx01/BoneXRays/blob/master/Image/Bigpicture.png)
 
 The dataset used for this study was made available by Stanford University, and can be found in the link: (https://stanfordmlgroup.github.io/competitions/mura/).
